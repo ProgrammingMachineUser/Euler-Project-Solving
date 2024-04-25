@@ -12,4 +12,4 @@ for x in range(101, 999):
 list.sort()
 print(list)
 
-"""Shows all the numbers that begins and finishes with the same number"""
+"""Shows all the numbers that begins and finishes with the same number, need a better solve"""
