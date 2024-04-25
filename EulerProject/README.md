@@ -5,4 +5,4 @@ Project Euler is a series of mathematical/computer problems designed to offer co
 Here you can find more about: 
 + https://projecteuler.net/about
 
-This Repository demonstates my attempts to complete the Project challenge using Pycharm and simple programs, feel free suggest any possible changes.
+This Repository demonstates my attempts to complete the Project challenge using Pycharm and simple programs, feel free to suggest any possible changes.
